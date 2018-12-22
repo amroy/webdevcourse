@@ -1,0 +1,42 @@
+.bouton-login {
+    background-color: blue; 
+    color: white; 
+    border: 2px solid blue;
+    margin: 15px;
+}
+
+.menu {
+    list-style: none;
+    float: right;
+}
+
+.menu li {
+    float: left;
+    margin: 15px;
+}
+
+.menu li a {
+    text-decoration: none;
+    padding: 10px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+/* .form-group label {
+    display: block;
+} */
+
+.formulaire-login {
+    width: 300px;
+}
+
+.control-label {
+    display: block;
+    text-align: left;
+}
+
+.form-control {
+    width: 100%;
+}
